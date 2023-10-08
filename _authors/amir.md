@@ -1,21 +1,23 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
+name: Amir
+username: amir007
+bio: "Hi I'm Amir, a Web Developer and Designer."
+site: https://amirghmohseni.github.io
 avatar: johndoe.png
-email: mail@johndoe.com
+email: amir.gm@gmail.com
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/amirghmohseni"
+    - title: "twitter"
+      url: "https://www.twitter.com/amir007_eth"
+---
+
     - title: "linkedin"
       url: "https://www.linkedin.com/in/johndoe"
     - title: "youtube"
       url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
     - title: "facebook"
       url: "https://www.facebook.com/johndoe"
-    - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
     - title: "behance"
       url: "https://behance.com/johndoe"
     - title: "instagram"
@@ -28,4 +30,3 @@ social:
       url: "https://dribbble.com/johndoe"
     - title: "flickr"
       url: "https://flickr.com/johndoe"
----
