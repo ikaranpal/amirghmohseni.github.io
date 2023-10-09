@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Growth of Liqudity Providers"
-summary: "Review LPs on Uniswap and Growth stats"
+summary: "Review LPs in Uniswap and Growth stats"
 author: amir007
 date: '2023-10-08 12:35:23 +0130'
 category: ['uniswap','dune', 'liquidity provider']
