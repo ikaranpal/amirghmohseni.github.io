@@ -6,7 +6,7 @@ author: amir007
 date: '2023-10-08 12:35:23 +0130'
 category: ['uniswap','dune', 'liquidity provider']
 tags: uniswap
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/posts/uniswap-growth-lp.png
 keywords: Uniswap, Dune, Liquidity Providers, Review Uniswap LPs
 usemathjax: false
 permalink: /blog/uniswap-growth-lp/
