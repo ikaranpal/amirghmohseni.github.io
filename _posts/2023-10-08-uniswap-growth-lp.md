@@ -14,6 +14,8 @@ permalink: /blog/uniswap-growth-lp/
 
 ## Adding Multiple Categories in Posts
 
+<iframe src="https://dune.com/embeds/3119526/5205138" width="100%" height="400"></iframe>
+
 To add categories in blog posts all you have to do is add a **category** key with category values in frontmatter of the post :
 
 ```yml
